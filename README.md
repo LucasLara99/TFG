@@ -1,5 +1,7 @@
 # TFG
 
+This is Lucas's Final Degree Project for the University of Granada
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
 
 ## Development server
